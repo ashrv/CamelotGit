@@ -12,7 +12,7 @@ public class MainClass {
 		var story = new Story();
 		//Simply call run.
 		story.Run(new QuestGraph());
-		//changes here
+		//changes here too
 	}
 
 }
