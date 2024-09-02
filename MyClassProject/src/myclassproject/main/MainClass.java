@@ -13,7 +13,6 @@ public class MainClass {
 		//Simply call run.
 		story.Run(new QuestGraph());
 		
-		//change here
 	}
 
 }
